@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.list{
+    font: bold 20px/40px ;
+    border: 5px solid red;
+    background-color: chartreuse;
+    text-align: center;
+    text-decoration-line: underline;
+text-shadow: 2px 2px black;
+}
+.text{
+    border: 5px solid steelblue;
+    box-shadow: 4px 8px;
+    /* border: 5px double red; */
+    /* font-style: italic; */
+    font: italic small-caps bold 20px/40px Arial, serif;
+    background-color: yellow;
+    
+    
+}
+.button{
+    border: 5px solid steelblue;
+    /* border: 1px solid; */
+        box-shadow: 4px 8px;
+        font: italic small-caps bold 20px/40px Arial, serif;
+        
+    
+}
+
+#my_task{
+    font: italic small-caps bold  20px/40px Arial, serif;
+    color: darkred;
+    
+}
